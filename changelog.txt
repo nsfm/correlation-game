@@ -1,0 +1,13 @@
+Changelog - Correlation Game
+Nate Dube, ndube.com
+
+9/29/2014
+-Original release
+9/30/2014
+-Fixed bug that could allow users to inject html/javascript into the page
+-Decreased frequency of a bug where some solutions might not show up, causing player to lose
+
+Upcoming features:
+-Groups and grouped score listing
+-UI overhaul
+-More result feedback
