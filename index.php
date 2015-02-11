@@ -5,9 +5,9 @@ require_once('header.php');
 //configuration
 //database connection
 $dbhost = "localhost";
-$dbuser = "ephemera";
+$dbuser = "";
 $dbdb = "correlation";
-$dbpassword = "ephemeral123!";
+$dbpassword = "";
 
 $dbconnect = mysqli_connect($dbhost, $dbuser, $dbpassword, $dbdb);
 $dbsuccess = TRUE;
